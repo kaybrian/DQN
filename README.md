@@ -33,8 +33,8 @@ dqn-breakout/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/kaybrian/Deep-Q-learning.git
-cd Deep-Q-learning
+git clone https://github.com/kaybrian/DQN.git
+cd DQN
 ```
 
 2. Create and activate a virtual environment (recommended):
